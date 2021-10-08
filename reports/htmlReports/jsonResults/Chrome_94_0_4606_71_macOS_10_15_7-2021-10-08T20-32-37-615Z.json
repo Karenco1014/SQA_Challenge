@@ -1,0 +1,447 @@
+[
+  {
+    "description": "Checkout feature",
+    "elements": [
+      {
+        "id": "ScenarioComplete a purchase.",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Complete a purchase.",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/Users/karen/Documents/SQA_Challenge/page_Object_Model/tests/Checkout.js:1:0"
+            },
+            "name": "Complete a purchase.",
+            "result": {
+              "duration": 21705,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Complete a purchase.</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      }
+    ],
+    "id": "Checkout feature",
+    "keyword": "Feature",
+    "line": 0,
+    "metadata": {
+      "browser": {
+        "name": "chrome",
+        "version": "94.0.4606.71"
+      },
+      "device": "macOS",
+      "platform": {
+        "name": "osx",
+        "version": "10.15.7"
+      },
+      "reportTime": "2021-10-08T20:32:37.616Z",
+      "startTime": "2021-10-08T20:31:37.674Z"
+    },
+    "name": "Checkout feature",
+    "skipped": false,
+    "tags": [
+      {
+        "line": 0,
+        "name": "@complete"
+      },
+      {
+        "line": 0,
+        "name": "@purchase"
+      },
+      {
+        "line": 0,
+        "name": "@checkout"
+      }
+    ],
+    "uri": "/Users/karen/Documents/SQA_Challenge/page_Object_Model/tests/Checkout.js:1"
+  },
+  {
+    "description": "Home feature",
+    "elements": [
+      {
+        "id": "ScenarioLogin with a valid user.",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Login with a valid user.",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/Users/karen/Documents/SQA_Challenge/page_Object_Model/tests/Home.js:1:0"
+            },
+            "name": "Login with a valid user.",
+            "result": {
+              "duration": 3546,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Login with a valid user.</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioLogout from the home page.",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Logout from the home page.",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/Users/karen/Documents/SQA_Challenge/page_Object_Model/tests/Home.js:1:0"
+            },
+            "name": "Logout from the home page.",
+            "result": {
+              "duration": 9265,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Logout from the home page.</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioSort products by Price (low to high)",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Sort products by Price (low to high)",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/Users/karen/Documents/SQA_Challenge/page_Object_Model/tests/Home.js:1:0"
+            },
+            "name": "Sort products by Price (low to high)",
+            "result": {
+              "duration": 7029,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Sort products by Price (low to high)</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioAdd multiple items to the shopping cart.",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Add multiple items to the shopping cart.",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/Users/karen/Documents/SQA_Challenge/page_Object_Model/tests/Home.js:1:0"
+            },
+            "name": "Add multiple items to the shopping cart.",
+            "result": {
+              "duration": 12244,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Add multiple items to the shopping cart.</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioAdd the specific product ‘Sauce Labs Onesie’ to the shopping cart.",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Add the specific product ‘Sauce Labs Onesie’ to the shopping cart.",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/Users/karen/Documents/SQA_Challenge/page_Object_Model/tests/Home.js:1:0"
+            },
+            "name": "Add the specific product ‘Sauce Labs Onesie’ to the shopping cart.",
+            "result": {
+              "duration": 17084,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Add the specific product ‘Sauce Labs Onesie’ to the shopping cart.</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      }
+    ],
+    "id": "Home feature",
+    "keyword": "Feature",
+    "line": 0,
+    "metadata": {
+      "browser": {
+        "name": "chrome",
+        "version": "94.0.4606.71"
+      },
+      "device": "macOS",
+      "platform": {
+        "name": "osx",
+        "version": "10.15.7"
+      },
+      "reportTime": "2021-10-08T20:32:37.616Z",
+      "startTime": "2021-10-08T20:31:37.674Z"
+    },
+    "name": "Home feature",
+    "skipped": false,
+    "tags": [
+      {
+        "line": 0,
+        "name": "@add"
+      },
+      {
+        "line": 0,
+        "name": "@specific"
+      },
+      {
+        "line": 0,
+        "name": "@product"
+      },
+      {
+        "line": 0,
+        "name": "@‘sauce"
+      },
+      {
+        "line": 0,
+        "name": "@labs"
+      },
+      {
+        "line": 0,
+        "name": "@onesie’"
+      },
+      {
+        "line": 0,
+        "name": "@shopping"
+      },
+      {
+        "line": 0,
+        "name": "@cart"
+      },
+      {
+        "line": 0,
+        "name": "@multiple"
+      },
+      {
+        "line": 0,
+        "name": "@items"
+      },
+      {
+        "line": 0,
+        "name": "@sort"
+      },
+      {
+        "line": 0,
+        "name": "@products"
+      },
+      {
+        "line": 0,
+        "name": "@price"
+      },
+      {
+        "line": 0,
+        "name": "@(low"
+      },
+      {
+        "line": 0,
+        "name": "@high)"
+      },
+      {
+        "line": 0,
+        "name": "@logout"
+      },
+      {
+        "line": 0,
+        "name": "@from"
+      },
+      {
+        "line": 0,
+        "name": "@home"
+      },
+      {
+        "line": 0,
+        "name": "@page"
+      },
+      {
+        "line": 0,
+        "name": "@login"
+      },
+      {
+        "line": 0,
+        "name": "@valid"
+      },
+      {
+        "line": 0,
+        "name": "@user"
+      }
+    ],
+    "uri": "/Users/karen/Documents/SQA_Challenge/page_Object_Model/tests/Home.js:1"
+  },
+  {
+    "description": "Login feature",
+    "elements": [
+      {
+        "id": "ScenarioLogin with a valid user.",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Login with a valid user.",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/Users/karen/Documents/SQA_Challenge/page_Object_Model/tests/Login.js:1:0"
+            },
+            "name": "Login with a valid user.",
+            "result": {
+              "duration": 3818,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Login with a valid user.</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioLogin with a invalid user.",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Login with a invalid user.",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/Users/karen/Documents/SQA_Challenge/page_Object_Model/tests/Login.js:1:0"
+            },
+            "name": "Login with a invalid user.",
+            "result": {
+              "duration": 4364,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Login with a invalid user.</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      }
+    ],
+    "id": "Login feature",
+    "keyword": "Feature",
+    "line": 0,
+    "metadata": {
+      "browser": {
+        "name": "chrome",
+        "version": "94.0.4606.71"
+      },
+      "device": "macOS",
+      "platform": {
+        "name": "osx",
+        "version": "10.15.7"
+      },
+      "reportTime": "2021-10-08T20:32:37.616Z",
+      "startTime": "2021-10-08T20:31:37.674Z"
+    },
+    "name": "Login feature",
+    "runInfo": {
+      "endTime": "2021-10-08T20:32:37.615Z",
+      "passed": 8,
+      "startTime": "2021-10-08T20:31:37.674Z",
+      "testCount": 8,
+      "userAgents": [
+        "Chrome 94.0.4606.71 / macOS 10.15.7",
+        "Safari 14.0.3 / macOS 10.15.6"
+      ],
+      "warnings": []
+    },
+    "skipped": false,
+    "tags": [
+      {
+        "line": 0,
+        "name": "@login"
+      },
+      {
+        "line": 0,
+        "name": "@invalid"
+      },
+      {
+        "line": 0,
+        "name": "@user"
+      },
+      {
+        "line": 0,
+        "name": "@valid"
+      }
+    ],
+    "uri": "/Users/karen/Documents/SQA_Challenge/page_Object_Model/tests/Login.js:1"
+  }
+]
