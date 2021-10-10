@@ -27,22 +27,16 @@ This repository has to goal, fulfill the next points:
 
 what will you need to run this repository:
 
-- Download [Postman](https://www.getpostman.com/ "Postman")
-- Download [Nodejs](https://nodejs.org/en/ "Nodejs")
-- Download [newman ](https://www.npmjs.com/package/newman "newman ")
 - Download [Visual Studio Code](https://code.visualstudio.com "Visual Studio Code")
-- npm install
+- run: npm install
+- run:npm install [Testcafe](https://testcafe.io "Testcafe")
+- run: npm install [dotenv](https://testcafe.io/documentation/402802/recipes/configuration/access-environment-variables-in-tests "dotenv")
+- run: npm install --save-dev multiple-cucumber-html-reporter [JSON TestCafé Reporter](https://www.npmjs.com/package/testcafe-reporter-cucumber-json "JSON TestCafé Reporter")
+- run: npm install --save testcafe-reporter-cucumber-json [To generate the HTML report](https://www.npmjs.com/package/testcafe-reporter-cucumber-json "To generate the HTML report")
 
 Clone the repo into your local machine:
-`https://github.com/Karenco1014/Todoist.git`
+`https://github.com/Karenco1014/SQA_Challenge.git`
 
-- cd FQA_Challenge_backend
-- Run test: npm run test
-
-# HTTP Verbs
-
-| HTTP METHOD | POST             | GET        | PUT                                    | DELETE           |
-| ----------- | ---------------- | ---------- | -------------------------------------- | ---------------- |
-| CRUD OP     | CREATE           | READ       | UPDATE                                 | DELETE           |
-| /tasks      | Create new tasks | List tasks | Bulk update                            | Delete all tasks |
-| /tasks/1234 | Error            | Show task1 | If exists, update task1; If not, error | Delete task1     |
+- cd SQA_Challenge
+- npm run test:report
+- npm run createReport
