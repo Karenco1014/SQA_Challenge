@@ -16,8 +16,7 @@ class HomeProductosPage {
 
     async SortProductLowtoHigh(){
         await t.click(this.buttomSortProducts)
-        await t.click(this.optionPriceLowtoHigh)
-        
+        await t.click(this.optionPriceLowtoHigh)    
     }
 
     async addCartitems(){ 
